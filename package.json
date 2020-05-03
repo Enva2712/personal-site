@@ -1,0 +1,22 @@
+{
+  "name": "personal-site",
+  "version": "0.0.1",
+  "description": "Let's set this back up",
+  "private": true,
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/enva2712/personal-site.git"
+  },
+  "author": "Evan Rusmisel <evanrusmisel@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/enva2712/personal-site/issues"
+  },
+  "homepage": "https://github.com/enva2712/personal-site#readme",
+  "devDependencies": {
+    "@11ty/eleventy": "^0.10.0"
+  }
+}
