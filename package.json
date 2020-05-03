@@ -19,6 +19,10 @@
   },
   "homepage": "https://github.com/enva2712/personal-site#readme",
   "devDependencies": {
-    "@11ty/eleventy": "^0.10.0"
+    "@11ty/eleventy": "^0.10.0",
+    "cssnano": "^4.1.10",
+    "glob": "^7.1.6",
+    "postcss": "^7.0.28",
+    "postcss-preset-env": "^6.7.0"
   }
 }
