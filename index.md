@@ -9,7 +9,7 @@
 * a [teacher](https://hendrickscareertek.org/event/front-end-web-development-summer-academies-2020/)
 
 - [taking photos](/photos)
-- [reading](/thoughts/books)
+- reading <!-- TODO -->
 - building things <!-- TODO -->
 
 [evanrusmisel@gmail.com](mailto:evanrusmisel@gmail.com)
