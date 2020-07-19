@@ -31,8 +31,9 @@ a {
 }
 
 main {
-	max-width: 40vh;
+	max-width: 80ex;
 	max-width: 80ch;
 	margin: auto;
 	padding: 1em;
+	border-top: 1em solid #5ca;
 }
