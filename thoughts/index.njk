@@ -1,0 +1,11 @@
+---
+tags:
+---
+
+<h1>I plan to think things down here sometimes maybe</h1>
+
+<ul>
+{% for thought in collections.thought | reverse %}
+<li><a href="{{ thought.url }}">{{ thought.data.title }}</a><br></li>
+{% endfor %}
+</ul>
