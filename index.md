@@ -5,12 +5,13 @@
 </header>
 
 * a [full stack developer](https://synecdoche.dev/)
-* a [writer](/thoughts)
 * a [teacher](https://hendrickscareertek.org/event/front-end-web-development-summer-academies-2020/)
+* a student
+* a [writer](/thoughts)
 
 - [taking photos](/photos)
-- reading <!-- TODO -->
-- building things <!-- TODO -->
+- reading
+- building things
 
 * on [github](https://github.com/enva2712)
 
