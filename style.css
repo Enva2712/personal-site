@@ -37,3 +37,7 @@ main {
 	padding: 1em;
 	border-top: 1em solid #5ca;
 }
+
+img {
+	max-width: 100%;
+}
