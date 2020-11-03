@@ -11,7 +11,6 @@
     "start:site": "eleventy --serve",
     "start:css": "postcss style.css -u postcss-preset-env --watch --poll -o _site/style.css",
     "check-compat": "which cowsay 2>&1 >/dev/null && echo 'Compatible system!' || echo 'Your system is incompatible with this site.\nPlease upgrade to the most recent version of Plan 9 and install cowsay'"
-
   },
   "repository": {
     "type": "git",
@@ -24,10 +23,10 @@
   },
   "homepage": "https://github.com/enva2712/personal-site#readme",
   "devDependencies": {
-    "@11ty/eleventy": "^0.11.0",
+    "@11ty/eleventy": "^0.11.1",
     "cssnano": "^4.1.10",
     "npm-run-all": "^4.1.5",
-    "postcss-cli": "^7.1.1",
+    "postcss-cli": "^7.1.2",
     "postcss-preset-env": "^6.7.0"
   }
 }
