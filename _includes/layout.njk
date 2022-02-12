@@ -4,7 +4,7 @@
 		<meta charset="utf-8">
 		<meta name="viewport" content="width=device-width, initial-scale=1">
 		<link rel="stylesheet" href="/style.css">
-		<title>Evan Rusmisel</title>
+		<title>{% if title %}{{title}} &mdash; {% endif %}Evan Rusmisel</title>
 	</head>
 	<body>
 		<main>{{ content | safe }}</main>
