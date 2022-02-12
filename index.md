@@ -4,15 +4,10 @@
 	</h1>
 </header>
 
-* a [full stack developer](https://synecdoche.dev/)
-* a [teacher](https://hendrickscareertek.org/event/front-end-web-development-summer-academies-2020/)
-* a student
-* a [writer](/thoughts)
-
+- learning & teaching
+- [writing](/thoughts) and [musing](/musings)
+- [coding](https://github.com/enva2712)
 - [taking photos](/photos)
-- reading
 - building things
-
-* on [github](https://github.com/enva2712)
-
-[evanrusmisel@gmail.com](mailto:evanrusmisel@gmail.com)
+- reading
+- available at [evanrusmisel@gmail.com](mailto:evanrusmisel@gmail.com)

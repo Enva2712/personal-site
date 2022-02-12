@@ -1,0 +1,11 @@
+---
+layout: layout
+tags:
+---
+
+<h1>Musings</h1>
+
+{% for muse in collections.musing | reverse %}
+{{ muse.templateContent | safe }}
+(<a href="{{ muse.url }}">permalink</a>)
+{% endfor %}
