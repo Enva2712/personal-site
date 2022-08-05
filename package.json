@@ -23,11 +23,11 @@
   },
   "homepage": "https://github.com/enva2712/personal-site#readme",
   "devDependencies": {
-    "@11ty/eleventy": "^1.0.0",
-    "cssnano": "^5.0.17",
+    "@11ty/eleventy": "^1.0.1",
+    "cssnano": "^5.1.12",
     "npm-run-all": "^4.1.5",
-    "postcss": "^8.4.6",
-    "postcss-cli": "^9.1.0",
-    "postcss-preset-env": "^7.3.1"
+    "postcss": "^8.4.14",
+    "postcss-cli": "^10.0.0",
+    "postcss-preset-env": "^7.7.2"
   }
 }
