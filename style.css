@@ -45,3 +45,28 @@ main {
 img {
 	max-width: 100%;
 }
+
+blockquote {
+	position: relative
+}
+
+blockquote:before {
+	content: '“';
+	position: absolute;
+	right: calc(100% + .15em);
+	color: #136;
+	font-family: serif;
+	font-size: 3em;
+	line-height: 1;
+}
+
+blockquote:after {
+	content: '”';
+	position: absolute;
+	bottom: 0;
+	left: calc(100% + .15em);
+	color: #136;
+	font-family: serif;
+	font-size: 3em;
+	line-height: .3;
+}
